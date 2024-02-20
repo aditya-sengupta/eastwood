@@ -1,0 +1,10 @@
+name = "eastwood"
+uuid = "30167194-5d83-468f-beab-cf7395a7df71"
+authors = ["aditya-sengupta <adityars@ucsc.edu>"]
+version = "0.1.0"
+
+[deps]
+PackageCompiler = "9b87118b-4619-50d2-8e1e-99f35a4d4d9d"
+QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
+SymbolicNumericIntegration = "78aadeae-fbc0-11eb-17b6-c7ec0477ba9e"
+Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
